@@ -104,7 +104,8 @@ end
 "
 
 nnoremap [unite] <Nop>
-nmap <leader>u [unite]
+" nmap <leader>u [unite]
+nmap <space> [unite]
 
 "
 " Source Profiles:
